@@ -17,7 +17,7 @@ import com.coforge.model.Student;
 import com.coforge.service.StudentService;
  
 @RestController
-@CrossOrigin("*")
+// @CrossOrigin("*")
 public class StudentController {
  
 	@Autowired
