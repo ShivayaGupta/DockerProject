@@ -1,0 +1,10 @@
+com/coforge/controller/StudentController.class
+com/coforge/service/package-info.class
+com/coforge/model/package-info.class
+com/coforge/repository/package-info.class
+com/coforge/StudentManagementApplication.class
+com/coforge/controller/package-info.class
+com/coforge/ServletInitializer.class
+com/coforge/repository/StudentRepository.class
+com/coforge/model/Student.class
+com/coforge/service/StudentService.class
