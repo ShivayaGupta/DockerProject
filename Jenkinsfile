@@ -12,7 +12,7 @@ pipeline {
  
         stage('Build Backend WAR') {
             steps {
-                dir('StudentMangagementApplication') {
+                dir('StudentManagementApplication') {
                     sh 'chmod +x mvnw || true'
                     sh './mvnw clean package -DskipTests || mvn clean package -DskipTests'
                 }
